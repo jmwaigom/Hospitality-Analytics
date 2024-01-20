@@ -1,4 +1,11 @@
-# ORUS Hotels Performance Analytics - Power BI Project 
+# ORUS Luxury Hotels & Resorts 
+
+
+
+![Orus 5](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/3c6e224b-ef5c-487d-8552-30a37b8715c7)
+
+
+## Performance Analytics - Power BI Project 
 ### Table of Contents
 ### Project Overview
 ORUS is a company that owns and operates seven hotel brands in four states in the United States, namely: Boston, Chicago, Los Angeles and New York City. The General Manager (GM)
