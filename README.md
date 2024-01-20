@@ -2,8 +2,7 @@
 
 
 
-![Orus 5](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/3c6e224b-ef5c-487d-8552-30a37b8715c7)
-
+![Orus8](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/82627eec-8134-4da8-81a4-be44c78e3bb7)
 
 ## Performance Analytics - Power BI Project 
 ### Table of Contents
