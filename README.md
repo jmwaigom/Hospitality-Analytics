@@ -15,12 +15,12 @@ Display the following on the dashboard
 5. Pro-rata share of revenue by room class in each hotel
 
 ### Data Source
-![Web capture_20-1-2024_133734_](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/99d3f476-2877-4ed8-b1b5-e51ee1854562)
 
 ### Data Preparation and Processing
 
 
 ### Visualization/Dashboard
+![Web capture_20-1-2024_133734_](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/99d3f476-2877-4ed8-b1b5-e51ee1854562)
 
 ### Key Insights
 
