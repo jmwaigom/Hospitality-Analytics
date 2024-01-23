@@ -45,3 +45,5 @@ The overall average occupancy for all hotels across all cities was slightly over
 
 ![Occupancy](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/e97515fc-c493-4508-abc7-63caf4aa076d)
 
+Generally, across all hotels and cities, Elite room class led in bookings and revenue (~33%), followed by premium (~27%), then Presidential (~22%). Standard generated the least revenue(~18%), however it was the second most booked class after Elite 
+
