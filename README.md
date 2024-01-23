@@ -41,9 +41,7 @@ ORUS seasons was the least overall revenue contributor (3.93%) because it's loca
 
 The overall booking success rate was 70.21% meaning that roughly 7 out of 10 bookings are likely for the guests to show up, stay the lenghth of their booking and check-out. This likelihood seems to be relatively even/similar across all hotels and cities. 
 
-The overall average occupancy for all hotels across all cities was slightly over half hotel capacity (58.31%). This is below the national average of 65% for May-July 2022  ORUS Blu had the highest overall occupancy at 63.14% while ORUS seasons had the lowest at 44.51%. 
+The overall average occupancy for all hotels across all cities was slightly over half hotel capacity (58.31%). This is below the national average of 65% for May-July 2022  ORUS Blu had the highest overall occupancy at 63.14% while ORUS seasons had the lowest at 44.51%. Also, there was higher occupancy in LA hotels than the rest of the cities. See table below for breakdown of occupancy by hotel and city
 
-
-
-
+![Occupancy](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/e97515fc-c493-4508-abc7-63caf4aa076d)
 
