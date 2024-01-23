@@ -49,11 +49,15 @@ Generally, across all hotels and cities, Elite room class led in revenue (~33%),
 
 All across cities and hotels, around 41% of the bookings were through an unidentified platform, followed by marketyourtrip (~20%). The least bookings were done through direct offline (~5%).
 
-During the time period (May-Jun), revenues began declining around week 28 (early July) and hit the lowest on week 32 (last week of July). It appears that this may have been caused by irreversible decline in bookings beginning week 28, with the lowest bookings recorded on week 32.  
-
-
+During the time period (May-Jun), revenues began declining around week 28 (early July) and hit the lowest on week 32 (last week of July). It appears that this may have been caused by irreversible decline in bookings beginning week 28, with the lowest bookings recorded on week 32. From this dataset, it's hard to pinpoint the reason for decline in bookings hence declining in revenue beginning week 28. The only factor that is worth investigating would be customer rating over time. However, as it can be seen below, it doesn't seem like customer ratings were trending down over time hence leading to lower traffic. For that reason, the cause of decline in bookings cannot be clearly established. One plausible assumption could be major news in the press about management, scandal or safety concerns with one or more ORUS hotels in one or several locations.   
 
 ![Ratings](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/98e630b2-0e48-4aa4-87f8-2e23e6ac270b)
+
+### Recommendations
+Further study/investigation should be conducted to find out what exactly happened around week 28 or slightly earlier that may have led to decline in booking volume. 
+
+The unidentified booking platform should be identified so that it could be promoted more through marketing
+
 
 
 ### Limitations
