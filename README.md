@@ -45,5 +45,13 @@ The overall average occupancy for all hotels across all cities was slightly over
 
 ![Occupancy](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/e97515fc-c493-4508-abc7-63caf4aa076d)
 
-Generally, across all hotels and cities, Elite room class led in bookings and revenue (~33%), followed by premium (~27%), then Presidential (~22%). Standard generated the least revenue(~18%), however it was the second most booked class after Elite 
+Generally, across all hotels and cities, Elite room class led in revenue (~33%), followed by premium (~27%), then Presidential (~22%). Standard generated the least revenue(~18%). Despite Standard being the cheapest option (averaging ~$110 per 2 guests), it wasn't the top booked room class. Elite led in booking volume despite being pricier than Standard (averaging ~$155 per 2 guests). Presidential was the least room class because it was the priciest (averaging ~$312 per 2 guests). However, it generated more revenue than Standard by 4%.
+
+All across cities and hotels, around 41% of the bookings were through an unidentified platform, followed by marketyourtrip (~20%). The least bookings were done through direct offline (~5%).
+
+During the time period (May-Jun), revenues began declining around week 28 (early July) and hit the lowest on week 32 (last week of July). It appears that this may have been caused by irreversible decline in bookings beginning week 28, with the lowest bookings recorded on week 32.  
+
+
+### Limitations
+Average price per room class was not provided, so an estimate was made by calculating average revenue generated per 2 guests for each room class. This could be a good rough estimate for analysis purposes, but may not be accurate.
 
