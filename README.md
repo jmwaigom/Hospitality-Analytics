@@ -28,7 +28,7 @@ Display the following on the dashboard
 ### Visualization/Dashboard
 ![Web capture_20-1-2024_133734_](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/99d3f476-2877-4ed8-b1b5-e51ee1854562)
 
-### Key Insights
+### Data Analysis 
 Overall, ORUS Hotels generated 23.07M and realized 19.65M of revenue from it (about 85%). For the total realized revenue, NYC was the leading city totaling around 7.69M (39.1%) followed by Chicago 4.83M (24.6%), Boston 3.73M (19.0%) and LA 3.39M (17.3%). This seems to correlate to some extent with the number of hotels in each city. All 7 ORUS brands are present in NYC, all but ORUS seasons in Chicago and Boston, and 5 brands in LA (all but ORUS Exotica and ORUS Seasons)
 
 Overall, ORUS Exotica was leading by 18.54%, followed by Orus Palace, 18.08% then ORUS City, 17.03%. The overall performance of ORUS Exotica appears to be heavily driven by its strong performance in NYC where it generated over 2.4M in realized revenue. This is the highest compared to any other hotel in either NYC or any leading hotel in the other 3 cities (ORUS Bay in Boston: 788K, ORUS City in Chicago: 959K, ORUS Palace in LA 1.04M). Strong performance of ORUS Exotica in NYC is significant, because despite being located in only 3 cities (all except LA), it still outperformed ORUS Palace and ORUS City (2nd and 3rd overall performers) which are located in all 4 cities. The strong performance of ORUS Exotica could be attributed to its significantly higher booking volume compared to other hotels in NYC. It totaled a whopping 13K bookings (30.7%) which is more than double of any other hotel in NYC and any top booked hotels in any of the 3 other cities (see table and column chart below)
@@ -37,7 +37,13 @@ Overall, ORUS Exotica was leading by 18.54%, followed by Orus Palace, 18.08% the
 
 ![Bookings2](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/76034fd5-f995-40fe-8db6-57b214a74284)
 
-ORUS seasons was the least overall revenue contributor (3.93%) because it's located in NYC only compared to the rest of the hotels which are located in at least 3 cities each. 
+ORUS seasons was the least overall revenue contributor (3.93%) because it's located in NYC only compared to the rest of the hotels which are located in at least 3 cities each.
+
+The overall booking success rate was 70.21% meaning that roughly 7 out of 10 bookings are likely for the guests to show up, stay the lenghth of their booking and check-out. This likelihood seems to be relatively even/similar across all hotels and cities. 
+
+The overall average occupancy for all hotels across all cities was slightly over half hotel capacity (58.31%). This is below the national average of 65% for May-July 2022  ORUS Blu had the highest overall occupancy at 63.14% while ORUS seasons had the lowest at 44.51%. 
+
+
 
 
 
