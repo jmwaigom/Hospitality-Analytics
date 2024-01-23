@@ -35,6 +35,7 @@ Overall, ORUS Exotica was leading by 18.54%, followed by Orus Palace, 18.08% the
 
 ![Bookings](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/3db74e64-3f95-4390-bf14-7f7500a8210d)
 
+![Bookings2](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/76034fd5-f995-40fe-8db6-57b214a74284)
 
 ORUS seasons was the least overall revenue contributor (3.93%) because it's located in NYC only compared to the rest of the hotels which are located in at least 3 cities each. 
 
