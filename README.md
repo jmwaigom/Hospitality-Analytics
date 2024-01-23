@@ -52,6 +52,10 @@ All across cities and hotels, around 41% of the bookings were through an unident
 During the time period (May-Jun), revenues began declining around week 28 (early July) and hit the lowest on week 32 (last week of July). It appears that this may have been caused by irreversible decline in bookings beginning week 28, with the lowest bookings recorded on week 32.  
 
 
+
+![Ratings](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/98e630b2-0e48-4aa4-87f8-2e23e6ac270b)
+
+
 ### Limitations
 Average price per room class was not provided, so an estimate was made by calculating average revenue generated per 2 guests for each room class. This could be a good rough estimate for analysis purposes, but may not be accurate.
 
