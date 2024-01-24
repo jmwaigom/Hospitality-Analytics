@@ -31,8 +31,16 @@ The data was then loaded into the model view of power BI whereby relationships w
 
 ![modelview](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/f4da727a-1b75-43cf-a8cd-6053106fb7bd)
 
-Once relationships were formed, visualizations were created in the report view of Power BI to address the objectives of the project. In the process, several DAX formulas were created to enhance analysis. For example
+Once relationships were formed, visualizations were created in the report view of Power BI to address the objectives of the project. In the process, several DAX formulas were created to enhance analysis. For example: Booking Success Rate was calculated by dividing checked out bookings (which were considered successful bookings) by total bookings. This was acccomplished through the DAX formula below.
 
+```
+Booking Success Rate = 
+VAR SuccessfulBookings = CALCULATE(COUNT(fact_bookings[Booking_ID]),fact_bookings[Booking Status] = "Checked Out")
+VAR TotalBookings = COUNT(fact_bookings[Booking_ID])
+RETURN
+    DIVIDE(SuccessfulBookings,TotalBookings,0)
+
+```
 
 
 
