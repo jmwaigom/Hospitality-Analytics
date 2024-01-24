@@ -4,6 +4,14 @@
 
 ## Performance Analytics - Power BI Project 
 ### Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Data Preparation and Processing](#data-preparation-and-processing)
+- [Dashboard](#dashboard)
+- [Data Analysis and Insights](#data-analysis-and-insights)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 ### Project Overview
 ORUS is a company that owns and operates seven hotel brands in four states in the United States, namely: Boston, Chicago, Los Angeles and New York City. The General Manager (GM)
 of ORUS wants a high level overview of how the brands have been performing across the locations. He wants to know the performance of the brands in terms of revenue, booking volume,
@@ -41,7 +49,7 @@ RETURN
 Several Power BI report pages were created to show visualizations that addressed project objectives. Finally, several visualizations were taken from each report page and used to create a dashboard
 
 
-### Visualization/Dashboard
+### Dashboard
 ![Web capture_20-1-2024_133734_](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/99d3f476-2877-4ed8-b1b5-e51ee1854562)
 
 ### Data Analysis and Insights
