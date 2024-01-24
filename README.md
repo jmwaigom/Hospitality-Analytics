@@ -28,6 +28,9 @@ The data used for this analysis was from the following csv files: "fact_aggregat
 The files were loaded into Power Query for some cleaning and transformation. A few transformations that were carried out included: merging queries, changing data types, removing duplicates, adding custom columns, filtering rows and extracting months from dates.
 
 The data was then loaded into the model view of power BI whereby relationships were formed across tables.
+![modelview](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/f4da727a-1b75-43cf-a8cd-6053106fb7bd)
+
+
 
 
 ### Visualization/Dashboard
