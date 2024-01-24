@@ -1,7 +1,5 @@
 # ORUS Luxury Hotels & Resorts 
 
-
-
 ![Orus8](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/82627eec-8134-4da8-81a4-be44c78e3bb7)
 
 ## Performance Analytics - Power BI Project 
@@ -21,10 +19,9 @@ Display the following on the dashboard
 5. Pro-rata share of revenue by room class in each hotel
 
 ### Data Source
+The data used for this analysis was from the following csv files: "fact_aggregated_bookings_us.csv", "fact_bookings_us.csv", "dim_rooms_us.csv", "dim_hotels_us.csv", and "dim_date_us.csv".  
 
 ### Data Preparation and Processing
-The data used for this analysis was from the following csv files: "fact_aggregated_bookings_us.csv", "fact_bookings_us.csv", "dim_rooms_us.csv", "dim_hotels_us.csv", and "dim_date_us.csv". 
-
 The files were loaded into Power Query for some cleaning and transformation. A few transformations that were carried out included: merging queries, changing data types, removing duplicates, adding custom columns, filtering rows and extracting months from dates.
 
 The data was then loaded into the model view of power BI whereby relationships were formed across tables.
