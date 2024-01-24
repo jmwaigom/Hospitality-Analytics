@@ -28,7 +28,7 @@ Display the following on the dashboard
 ### Visualization/Dashboard
 ![Web capture_20-1-2024_133734_](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/99d3f476-2877-4ed8-b1b5-e51ee1854562)
 
-### Data Analysis 
+### Data Analysis and Insights
 Overall, ORUS Hotels generated 23.07M and realized 19.65M of revenue from it (about 85%). For the total realized revenue, NYC was the leading city totaling around 7.69M (39.1%) followed by Chicago 4.83M (24.6%), Boston 3.73M (19.0%) and LA 3.39M (17.3%). This seems to correlate to some extent with the number of hotels in each city. All 7 ORUS brands are present in NYC, all but ORUS seasons in Chicago and Boston, and 5 brands in LA (all but ORUS Exotica and ORUS Seasons)
 
 Overall, ORUS Exotica was leading by 18.54%, followed by Orus Palace, 18.08% then ORUS City, 17.03%. The overall performance of ORUS Exotica appears to be heavily driven by its strong performance in NYC where it generated over 2.4M in realized revenue. This is the highest compared to any other hotel in either NYC or any leading hotel in the other 3 cities (ORUS Bay in Boston: 788K, ORUS City in Chicago: 959K, ORUS Palace in LA 1.04M). Strong performance of ORUS Exotica in NYC is significant, because despite being located in only 3 cities (all except LA), it still outperformed ORUS Palace and ORUS City (2nd and 3rd overall performers) which are located in all 4 cities. The strong performance of ORUS Exotica could be attributed to its significantly higher booking volume compared to other hotels in NYC. It totaled a whopping 13K bookings (30.7%) which is more than double of any other hotel in NYC and any top booked hotels in any of the 3 other cities (see table and column chart below)
@@ -56,10 +56,13 @@ During the time period (May-Jun), revenues began declining around week 28 (early
 ### Recommendations
 Further study/investigation should be conducted to find out what exactly happened around week 28 or slightly earlier that may have led to decline in booking volume. 
 
-The unidentified booking platform should be identified so that it could be promoted more through marketing
+The unidentified booking platform should be identified so that it can be promoted through marketing campaigns. Furthermore, since revenue is heavily driven by booking volume, more effort should be directed towards marketing campaign. ORUS should consider investing in online ads and offering deals to attract more customers.
+
+Generally, ORUS should consider improving customer experience for better rating. That could be upgrading amenities, room service, room quality, safety protocols and general customer care. This will increase customer satisfaction which will enhance the reputation of ORUS, hence attracting more customers.
 
 
 
 ### Limitations
 Average price per room class was not provided, so an estimate was made by calculating average revenue generated per 2 guests for each room class. This could be a good rough estimate for analysis purposes, but may not be accurate.
+
 
