@@ -92,4 +92,7 @@ A survey should be conducted to learn why some customers cancel or don't show up
 ### Limitations
 Average price per room class was not provided, so an estimate was made by calculating average revenue generated per 2 guests for each room class. This could be a good rough estimate for analysis purposes, but may not be accurate.
 
+### References
+- [Statista](https://www.statista.com/statistics/206546/us-hotels-occupancy-rate-by-month)
+
 
