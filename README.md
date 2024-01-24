@@ -23,6 +23,11 @@ Display the following on the dashboard
 ### Data Source
 
 ### Data Preparation and Processing
+The data used for this analysis was from the following csv files: "fact_aggregated_bookings_us.csv", "fact_bookings_us.csv", "dim_rooms_us.csv", "dim_hotels_us.csv", and "dim_date_us.csv". 
+
+The files were loaded into Power Query for some cleaning and transformation. A few transformations that were carried out included: merging queries, changing data types, removing duplicates, adding custom columns, filtering rows and extracting months from dates.
+
+The data was then loaded into the model view of power BI whereby relationships were formed across tables.
 
 
 ### Visualization/Dashboard
@@ -60,6 +65,9 @@ The unidentified booking platform should be identified so that it can be promote
 
 Generally, ORUS should consider improving customer experience for better rating. That could be upgrading amenities, room service, room quality, safety protocols and general customer care. This will increase customer satisfaction which will enhance the reputation of ORUS, hence attracting more customers.
 
+Further study should be conducted to investigate the primary cause of the gap between generated and realized revenues and figure out ways of reducing that gap so as to maximize net revenue
+
+A survey should be conducted to learn why some customers cancel or don't show up for their reservations. The reasons may be purely personal, but it's worth finding in case the reasons have to do with ORUS to any extent.
 
 
 ### Limitations
