@@ -41,7 +41,7 @@ RETURN
     DIVIDE(SuccessfulBookings,TotalBookings,0)
 
 ```
-
+Several Power BI report pages were created to show visualizations that addressed project objectives. Finally, several visualizations were taken from each report page and used to create a dashboard
 
 
 ### Visualization/Dashboard
