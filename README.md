@@ -1,6 +1,6 @@
 # ORUS Luxury Hotels & Resorts 
 
-![image2](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/d592096f-0050-4126-aef0-783e0e04cac6)
+![image3](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/a6de3176-5368-4cc8-a345-79c3f61e4d96)
 
 ## Performance Analytics - Power BI Project 
 ### Table of Contents
