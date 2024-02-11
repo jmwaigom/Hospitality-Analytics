@@ -67,7 +67,7 @@ The overall booking success rate was 70.21% meaning that roughly 7 out of 10 boo
 
 The overall average occupancy for all hotels across all cities was slightly over half hotel capacity (58.31%). This is below the national average of 65% for May-July 2022  ORUS Blu had the highest overall occupancy at 63.14% while ORUS seasons had the lowest at 44.51%. Also, there was higher occupancy in LA hotels than the rest of the cities. See table below for breakdown of occupancy by hotel and city
 
-![Screenshot 2024-02-11 004841](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/4311da80-be44-4eee-96d5-84cae817bab4)
+![Edit5](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/da7077e9-1eff-4afa-b54f-446d04bd5c06)
 
 Generally, across all hotels and cities, Elite room class led in revenue (~33%), followed by premium (~27%), then Presidential (~22%). Standard generated the least revenue(~18%). Despite Standard being the cheapest option (averaging ~$110 per 2 guests), it wasn't the top booked room class. Elite led in booking volume despite being pricier than Standard (averaging ~$155 per 2 guests). Presidential was the least room class because it was the priciest (averaging ~$312 per 2 guests). However, it generated more revenue than Standard by 4%.
 
