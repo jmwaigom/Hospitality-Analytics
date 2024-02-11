@@ -50,7 +50,7 @@ Several Power BI report pages were created to show visualizations that addressed
 
 
 ### Dashboard
-![Web capture_20-1-2024_133734_](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/99d3f476-2877-4ed8-b1b5-e51ee1854562)
+![OrusDasboardEdit2](https://github.com/jmwaigom/Hospitality-Analytics/assets/155841258/d8f9acfd-cdff-43db-bc79-df72e4551a86)
 
 ### Data Analysis and Insights
 Overall, ORUS Hotels generated 23.07M and realized 19.65M of revenue from it (about 85%). For the total realized revenue, NYC was the leading city totaling around 7.69M (39.1%) followed by Chicago 4.83M (24.6%), Boston 3.73M (19.0%) and LA 3.39M (17.3%). This seems to correlate to some extent with the number of hotels in each city. All 7 ORUS brands are present in NYC, all but ORUS seasons in Chicago and Boston, and 5 brands in LA (all but ORUS Exotica and ORUS Seasons)
